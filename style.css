@@ -60,9 +60,15 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg,salmon, tomato);
     border-image-slice: 1;
+    border-right: 7px solid;
+    border-image: linear-gradient(180deg,salmon, tomato);
+    border-image-slice: 1;
 }
 #junior-developer{
     border-left: 7px solid;
+    border-image:linear-gradient(180deg,blue, cyan); 
+    border-image-slice: 1;
+    border-right: 7px solid;
     border-image:linear-gradient(180deg,blue, cyan); 
     border-image-slice: 1;
 }
